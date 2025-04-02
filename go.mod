@@ -102,3 +102,5 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	lukechampine.com/blake3 v1.3.0 // indirect
 )
+
+replace github.com/sagernet/sing-quic => github.com/znlsl/sing-quic v0.4.1-0.20250402060250-3dd0142e0175

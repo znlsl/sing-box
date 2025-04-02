@@ -1,4 +1,4 @@
-module github.com/sagernet/sing-box
+module github.com/znlsl/sing-box
 
 go 1.20
 
